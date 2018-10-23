@@ -1,0 +1,13 @@
+# Definições do módulo create_user
+
+def:
+    - clean_string
+    - clean_list
+    - check_user_exists
+    - create_user
+    - get_user_password_hash
+    - modify_user
+    - execute_sql
+    - execute_sql_get
+    - drop_user
+    - main
